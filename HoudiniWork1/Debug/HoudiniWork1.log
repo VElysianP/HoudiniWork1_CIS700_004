@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  HoudiniWork1.cpp
+  FastPoissonDisk.cpp
+f:\course\cis563\week1\houdiniwork1\houdiniwork1\fastpoissondisk.cpp(3): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
